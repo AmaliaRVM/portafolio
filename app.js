@@ -44,10 +44,9 @@ const getDataTwo = function () {
             divOthers.innerHTML = divOthers.innerHTML + `
             
             <div class="single-project">
-                <h2>${item.header}</h2>
                 <h4>${item.title}</h4>
                 <p>${item.text}</p>
-                <h4>${item.tools}</h4>
+                <h4 class="hashtag">${item.tools}</h4>
             </div>
             
             `

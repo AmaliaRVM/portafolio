@@ -2,7 +2,7 @@
     font-family: "Messapia-Regular";
     src: url("Messapia/web/Messapia-Regular.woff2") format("woff2"),
          url("Messapia/web/Messapia-Regular.woff") format("woff");
-  } 
+  }
 
 
 body{
@@ -17,9 +17,20 @@ body{
     margin: 0 0 0 25%;
 }
 
-h1, h2, h4{
+h1, h4{
     margin: 5px;
     padding: 10px;
+}
+
+h3 {
+    margin: 5px;
+    padding: 10px;
+    color: #D6F361;
+}
+
+h2 {
+    color: #D6F361;
+    padding-top: 30px;
 }
 
 h1 {
@@ -27,14 +38,24 @@ h1 {
     font-size: 62px;
 }
 
-h2 {
-    color: #D6F361;
-}
 
+h4 {
+    font-size: 24px;
+    color: #83808B;
+}
 
 p{
     margin: 5px;
     padding: 10px;
+    font-family: 'Rasa', serif;
+}
+
+img{
+    width: 50px;
+}
+
+#design-collaboration{
+    text-align: right;
 }
 
 a{
@@ -75,7 +96,16 @@ section.main{
     margin: 10px;
 }
 
+#header{
+    border-top: 2px solid #28282E ;
+}
+
 .single-project{
+    font-size: 22px;
+}
+
+.hashtag{
+    color: #28282E;
     font-size: 18px;
 }
 

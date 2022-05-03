@@ -11,25 +11,25 @@
     },
     
     {
-        "a": "Connected.Dots",
+        "a": "Connected.Dots*",
         "href": "https://connecteddots.be/",
-        "about": "Connected.Dots, a design collective based in Belgium that promotes the design of people from different backgrounds and cultures",
-        "tools": "#custom e-commerce #Shopify theme development #Liquid"
+        "about": "E-commerce for a design collective based in Belgium",
+        "tools": "#custom e-commerce #Shopify theme development #liquid"
 
     },
 
     {
         "a": "plagktos",
         "href":"https://www.plagktos.org/",
-        "about": "Refurbished code for plagktos cinema project",
-        "tools": "#js #css #html"
+        "about": "Refurbished code for plagktos cinema project <br> Try the links!",
+        "tools": "#js #css #html #interactive"
     
     },
 
     {
         "a": "daddyK7",
         "href":"http://www.daddyk7.be/",
-        "about": "Brings our good old tapes back to life",
+        "about": "Radio broadcasting page for audio tape project <br> Dond't forget to scroll down!",
         "tools": "#broadcast site #html #css"
     }
 
