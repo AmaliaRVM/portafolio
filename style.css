@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Messapia-Regular";
+    src: url("Messapia/web/Messapia-Regular.woff2") format("woff2"),
+         url("Messapia/web/Messapia-Regular.woff") format("woff");
+  } 
+
+
+body{
+
+    font-family: "Messapia-Regular";
+    font-size: 18px;
+    line-height: 1.25;
+
+    background-color:#fff;
+    color: #28282E;
+
+    margin: 0 0 0 25%;
+}
+
+h1, h2, h4{
+    margin: 5px;
+    padding: 10px;
+}
+
+h1 {
+    margin-top: 25%;
+    font-size: 62px;
+}
+
+h2 {
+    color: #D6F361;
+}
+
+
+p{
+    margin: 5px;
+    padding: 10px;
+}
+
+a{
+    color: #83808B;
+    margin: 5px;
+    padding: 10px;
+    font-size: 32px;
+}
+
+/* Sidebar section style */
+
+section.sidebar{
+    position:fixed;
+    width: 30%;
+    padding-left: 40px;
+    top: 0;
+    left: 0;
+    height: 100%;
+}
+
+/* Main section style */
+section.main{
+    max-width: 1000px;
+    margin: 0 auto 0 auto; 
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 1.5rem;
+    grid-template-rows: auto;
+}
+
+.projects{
+    margin: 10px;
+}
+
+.others{
+    margin: 10px;
+}
+
+.single-project{
+    font-size: 18px;
+}
+
+

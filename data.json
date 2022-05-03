@@ -1,0 +1,37 @@
+
+
+[
+
+    {
+        "a": "ciaDeLiRi",
+        "href": "http://ciadeliri.com/",
+        "about": "Static web page for a theatre company based in Barcelona",
+        "tools": "#wordpress"
+
+    },
+    
+    {
+        "a": "Connected.Dots",
+        "href": "https://connecteddots.be/",
+        "about": "Connected.Dots, a design collective based in Belgium that promotes the design of people from different backgrounds and cultures",
+        "tools": "#custom e-commerce #Shopify theme development #Liquid"
+
+    },
+
+    {
+        "a": "plagktos",
+        "href":"https://www.plagktos.org/",
+        "about": "Refurbished code for plagktos cinema project",
+        "tools": "#js #css #html"
+    
+    },
+
+    {
+        "a": "daddyK7",
+        "href":"http://www.daddyk7.be/",
+        "about": "Brings our good old tapes back to life",
+        "tools": "#broadcast site #html #css"
+    }
+
+]
+
