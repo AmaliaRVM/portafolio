@@ -52,7 +52,6 @@ section.sidebar{
     padding-left: 40px;
     top: 0;
     left: 0;
-    height: 100%;
 }
 
 /* Main section style */
@@ -78,6 +77,44 @@ section.main{
 
 .single-project{
     font-size: 18px;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 1024px) {
+
+
+    section.sidebar{
+        position: relative;
+        width: 100vw;
+        padding: 10px;
+        margin: 10px;
+    }
+
+    h1 {
+        margin-top: 10px;
+        font-size: 24px;
+    }
+
+    a {
+        font-size: 18px;
+    }
+
+    section.main{
+        display: block;
+        width: 90%;
+        margin: 0;
+        padding: 10px;
+    }
+
+    .grid{
+        display: block;
+    }
+
+    .single-project{
+        font-size: 14px;
+    }
+
 }
 
 
