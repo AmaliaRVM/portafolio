@@ -83,6 +83,10 @@ section.main{
 
 @media screen and (max-width: 1024px) {
 
+    body{
+        margin: 0;
+    }
+
 
     section.sidebar{
         position: relative;
