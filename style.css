@@ -84,7 +84,7 @@ section.main{
 @media screen and (max-width: 1024px) {
 
     body{
-        margin: 0;
+        margin: 0 auto 0 auto;
     }
 
 
