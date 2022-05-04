@@ -96,7 +96,7 @@ section.main{
     margin: 10px;
 }
 
-#header{
+#header-two{
     border-top: 2px solid #28282E ;
 }
 
@@ -147,6 +147,10 @@ section.main{
 
     .single-project{
         font-size: 14px;
+    }
+
+    #header-one{
+        border-top: 2px solid #28282E ;
     }
 
 }
